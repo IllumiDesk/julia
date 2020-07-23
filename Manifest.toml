@@ -1,3 +1,5 @@
+# This file is machine-generated - editing it directly is not advised
+
 [[ATK_jll]]
 deps = ["Glib_jll", "Libdl", "Pkg"]
 git-tree-sha1 = "7129d58ed99d42032cefe21bcd14171a878143d2"
